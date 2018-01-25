@@ -8,7 +8,7 @@ url: "https://mj-tracks.github.io/vocal-track/"
 baseurl: "/vocal-track"
 
 # Theme par defaut
-theme: jekyll-theme-midnight
+theme: plastedre
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -29,10 +29,6 @@ avatar: "/img/logo.png"
 # All tag for posts
 tags: [maxi-single isolated multitrack stream filtered]
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
 
 markdown: kramdown
 #highlighter: rouge
