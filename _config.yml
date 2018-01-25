@@ -45,3 +45,6 @@ exclude:
   - Vagrantfile
 
 
+plugins:
+  - jekyll-seo-tag
+
