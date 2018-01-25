@@ -10,10 +10,14 @@ baseurl: "/vocal-track"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Blog Title
-title: The Vocal Track
+title: "The Vocal Track"
 
 # Blog Description
-description: All Acapella tracks of Michael Jackson's songs
+description: "All Acapella tracks of Michael Jackson's songs"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/_data/logo.png"
 
 # All tag for posts
 tags: [maxi-single isolated multitrack stream filtered]
@@ -28,10 +32,6 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
-
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Plastedre
+  name: "Plastedre"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -98,7 +98,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "vocal-track.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "vocal-track.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
